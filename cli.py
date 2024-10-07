@@ -5,8 +5,7 @@ import astor
 
 from src.pseutopy.pseutopy import PseuToPy
 
-parser = argparse.ArgumentParser(description='A pseudocode to Python '
-                                             'converter written in Python '
+parser = argparse.ArgumentParser(description='A pseudocode to Python 'xys=1                                           'converter written in Python '
                                              'using textX.')
 parser.add_argument('input',
                     help="Pseudocode input to be converted into Python")
